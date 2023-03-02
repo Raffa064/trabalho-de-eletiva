@@ -15,11 +15,11 @@ export default function App({ Component, pageProps }) {
       <nav>
         <h1>Sports for all</h1>
         <ul>
-          <li><TabLink href="/">Pagina index</TabLink></li>
-          <li><TabLink href="/teste1">Texto aleatorio</TabLink></li>
-          <li><TabLink href="/teste2">Pagina atoa 1</TabLink></li>
-          <li><TabLink href="/teste2">Pagina atoa 2</TabLink></li>
-          <li><TabLink href="/teste2">Pagina atoa 3</TabLink></li>
+          <li><TabLink href="/">Deficiência intelectual</TabLink></li>
+          <li><TabLink href="/teste1">Características</TabLink></li>
+          <li><TabLink href="/teste2">Tipos de deficiência intelectual</TabLink></li>
+          <li><TabLink href="/teste2">Esportes para deficientes intelectuais</TabLink></li>
+          <li><TabLink href="/teste2">Dicas de convivência</TabLink></li>
         </ul>
       </nav>
       <Component {...pageProps} />
