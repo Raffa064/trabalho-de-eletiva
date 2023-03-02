@@ -16,8 +16,24 @@ export default function Home() {
       </Head>
       <main>
         <h2>Título da página 1</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mauris orci, commodo a rhoncus vel, condimentum eu orci. In ultrices pretium metus, et volutpat magna mattis ac. Nunc pellentesque gravida urna, a rhoncus dolor viverra imperdiet. Integer facilisis eros vel est dignissim commodo. Sed auctor egestas enim et volutpat. Nullam bibendum efficitur euismod. Phasellus condimentum neque eu ex vehicula, vel vehicula risus condimentum. Ut leo ligula, blandit in libero ac, gravida tempus leo. Aliquam porta auctor magna eget fermentum. Nam et vestibulum sapien, in ullamcorper arcu. Duis lobortis, justo ac vulputate gravida, enim mi placerat metus, ac ullamcorper libero eros id turpis. Sed nec nulla in eros facilisis tristique eget ac tellus. Phasellus ornare diam in fringilla feugiat. Curabitur lacinia auctor aliquet.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mauris orci, commodo a rhoncus vel, condimentum eu orci. In ultrices pretium metus, et volutpat magna mattis ac. Nunc pellentesque gravida urna, a rhoncus dolor viverra imperdiet. Integer facilisis eros vel est dignissim commodo. Sed auctor egestas enim et volutpat. Nullam bibendum efficitur euismod. Phasellus condimentum neque eu ex vehicula, vel vehicula risus condimentum. Ut leo ligula, blandit in libero ac, gravida tempus leo. Aliquam porta auctor magna eget fermentum. Nam et vestibulum sapien, in ullamcorper arcu. Duis lobortis, justo ac vulputate gravida, enim mi placerat metus, ac ullamcorper libero eros id turpis. Sed nec nulla in eros facilisis tristique eget ac tellus. Phasellus ornare diam in fringilla feugiat. Curabitur lacinia auctor aliquet.</p>
+        <p>Para ajudar ao próximo , começamos ajudando quem está perto de nós !
+          assim iniciamos uma corrente de ajuda que beneficiará muitas pessoas , o mundo todo .
+
+          Um dos principais oncologistas do Brasil, o médico Lucas da Siva ( fictício ) se dedicou ao departamento de oncologia urológica robotica do Hospital A.C. Camargo.
+
+          Ele organizou médicos voluntários e parceiros para lançar, o maior centro de tratamento gratuito para o câncer urológico com a extração da próstata, na cidade de São Paulo.
+        </p>
+
+        <p>A instituição tem cerca de 5 mil homens atendidos anualmente, entre sessões de quimioterapia, consultas, procedimentos ambulatoriais, cirurgias, e outros.
+
+          Meu marido foi atendido lá , não pagamos nada , e ainda um robô de última geração o operou com 3 furinhos apenas no abdômen.
+
+          Além de diagnosticar e tratar o câncer , o grupo atua no desenvolvimento do ensino e pesquisa sobre o tema.
+        </p>
+
+        <p>
+          São pessoas assim , que colocam a ajuda , o voluntário acima do lucro que ajudam o mundo a ser melhor
+        </p>
       </main>
     </>
   )

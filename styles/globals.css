@@ -38,10 +38,6 @@ html {
   }
 }
 
-h1 {
-  font-size: 1rem;
-}
-
 nav {
   display: flex;
   flex-direction: row;
@@ -50,7 +46,12 @@ nav {
   padding: 10px;
 }
 
+nav h1 {
+  font-size: 1.2rem;
+}
+
 nav ul {
+  display: inline;
   list-style: none;
 }
 
@@ -105,10 +106,35 @@ nav ul li .activedTopic {
   }
 }
 
+.body {
+  width: 100vw;
+}
+
 main {
   padding: 10px;
+  max-width: 1600px;
+  margin: auto;
+  line-height: 2.5rem;
 } 
+
+main p {
+  margin-bottom: 2rem;
+}
 
 main h2 {
   color: red;
+}
+
+@media (max-width: 800px) {
+  nav {
+    flex-direction: column;
+  }
+
+  nav ul {
+    text-align: center;
+  }
+
+  main p {
+    line-height: 1.5rem;
+  }
 }
