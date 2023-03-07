@@ -13,10 +13,14 @@ export default function Home() {
       </Head>
       <main>
         <h2>Esportes para pessoas com deficiência intelectual</h2>
-        <p>O atletismo adaptado inclui eventos como corridas, salto em distância e arremesso de peso, e oferece uma ótima oportunidade para pessoas com deficiência intelectual melhorarem sua força, resistência e coordenação.</p>
         <AdjustableImages>
           <img src="/image2.jpg"></img>
           <img src="/image-4.jpg"></img>
+        </AdjustableImages>
+        <h3>Atletismo</h3>
+        <p>O atletismo adaptado inclui eventos como corridas, salto em distância e arremesso de peso, e oferece uma ótima oportunidade para pessoas com deficiência intelectual melhorarem sua força, resistência e coordenação.</p>
+        <AdjustableImages>
+          <img src="/image-5.jpg"></img>
         </AdjustableImages>
         <h3>Natação</h3>
         <p>A natação é outro esporte popular, pois a água ajuda a reduzir a pressão nas articulações e permite que as pessoas com deficiência intelectual experimentem uma sensação de liberdade e independência na água.</p>
