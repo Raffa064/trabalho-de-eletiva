@@ -69,6 +69,7 @@ nav ul li a {
 }
 
 nav ul li .activedTopic {
+  margin-left: 10px;
   background: red;
   color: white;
   border-radius: 60px;
@@ -128,6 +129,10 @@ main h2 {
 @media (max-width: 800px) {
   nav {
     flex-direction: column;
+  }
+
+  nav h1 {
+    margin-bottom: 10px;
   }
 
   nav ul {
