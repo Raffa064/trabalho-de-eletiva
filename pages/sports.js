@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <h2>Título da página</h2>
+        <h2>Esportes para pessoas com deficiência intelectual</h2>
         <p>Pessoas com deficiência intelectual podem participar de uma ampla variedade de esportes adaptados que foram desenvolvidos especificamente para suas necessidades. Alguns dos esportes mais populares para pessoas com deficiência intelectual incluem atletismo, natação, basquete, futebol e boliche.</p>
         <p>O atletismo adaptado inclui eventos como corridas, salto em distância e arremesso de peso, e oferece uma ótima oportunidade para pessoas com deficiência intelectual melhorarem sua força, resistência e coordenação.</p>
         <p>A natação é outro esporte popular, pois a água ajuda a reduzir a pressão nas articulações e permite que as pessoas com deficiência intelectual experimentem uma sensação de liberdade e independência na água.</p>
