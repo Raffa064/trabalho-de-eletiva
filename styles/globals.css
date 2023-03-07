@@ -94,7 +94,7 @@ nav ul li .activedTopic {
 }
 
 .goUp:hover {
-  background: orange;
+  background: #f50;
 }
 
 @keyframes goUpAnimation {
@@ -113,7 +113,7 @@ nav ul li .activedTopic {
 
 main {
   padding: 10px;
-  max-width: 1600px;
+  max-width: 900px;
   margin: auto;
   line-height: 2.5rem;
 } 

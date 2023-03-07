@@ -29,11 +29,11 @@ export default function Home() {
           <img src="/image4.jpg"></img>
         </AdjustableImages>
         <h3>Futebol</h3>
+        <p>O futebol adaptado é outra opção popular, com versões que variam desde o futebol de cinco para pessoas com deficiência visual até o futebol de sete para pessoas com deficiência intelectual.</p>
         <AdjustableImages>
           <img src="/image-0.jpg"></img>
           <img src="/image-1.jpg"></img>
         </AdjustableImages>
-        <p>O futebol adaptado é outra opção popular, com versões que variam desde o futebol de cinco para pessoas com deficiência visual até o futebol de sete para pessoas com deficiência intelectual.</p>
         <h3>Boliche</h3>
         <p>Finalmente, o boliche é um esporte popular que oferece um ambiente descontraído e social, permitindo que pessoas com deficiência intelectual participem e interajam com amigos e familiares enquanto se divertem.</p>
         <AdjustableImages>
