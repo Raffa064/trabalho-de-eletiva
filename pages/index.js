@@ -29,6 +29,7 @@ export default function Home() {
         <AdjustableImages>
           <img src="/ultrassom.jpg" style={{"objectPosition": "bottom right"}}></img>
         </AdjustableImages>
+        <p class="writtedby">Texto escrito por Rafael</p>
       </main>
     </>
   )
