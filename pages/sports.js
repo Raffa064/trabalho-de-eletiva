@@ -12,6 +12,7 @@ export default function Home() {
       </Head>
       <main>
         <h2>Esportes para pessoas com deficiência intelectual</h2>
+        <p>Pessoas com <strong>Deficiência Intelectual</strong> podem participar de uma ampla variedade de <strong>esportes adaptados</strong> que foram desenvolvidos especificamente para usas necessidades. Alguns dos esportes mais populares para pessoas com deficiência intelectual incluem:</p>
         <AdjustableImages>
           <img src="/image2.jpg"></img>
           <img src="/image-4.jpg"></img>
