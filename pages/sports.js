@@ -43,6 +43,7 @@ export default function Home() {
           <img src="/image-2.jpg"></img>
           <img src="/image-3.jpg"></img>
         </AdjustableImages>
+        <p class="writtedby">Texto escrito por Diogo</p>
       </main>
     </>
   )

@@ -149,6 +149,12 @@ main h2 {
   border: 1px solid black;
 }
 
+.writtedby {
+  font-weight: bold;
+  color: #f00;
+  text-align: center;
+}
+
 @media (max-width: 800px) {
   nav {
     flex-direction: column;
