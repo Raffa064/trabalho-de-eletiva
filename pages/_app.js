@@ -16,10 +16,10 @@ export default function App({ Component, pageProps }) {
         <h1>Sports for all</h1>
         <ul>
           <li><TabLink href="/">Deficiência intelectual</TabLink></li>
-          <li><TabLink href="/teste1">Características</TabLink></li>
-          <li><TabLink href="/teste2">Tipos de deficiência intelectual</TabLink></li>
+          <li><TabLink href="/presentation">Características</TabLink></li>
+          <li><TabLink href="/teste2354454">Tipos de deficiência intelectual</TabLink></li>
           <li><TabLink href="/sports">Esportes para deficientes intelectuais</TabLink></li>
-          <li><TabLink href="/teste2">Dicas de convivência</TabLink></li>
+          <li><TabLink href="/teste2454">Dicas de convivência</TabLink></li>
         </ul>
       </nav>
       <Component {...pageProps} />
