@@ -48,12 +48,12 @@ nav {
 
 nav h1 {
   font-size: 1.2rem;
+  min-width: 120px;
 }
 
 nav ul {
   display: inline;
   list-style: none;
-  max-width: calc(100% - 200px);
   background: red;
 }
 
