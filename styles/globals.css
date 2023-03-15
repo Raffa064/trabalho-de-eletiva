@@ -53,6 +53,8 @@ nav h1 {
 nav ul {
   display: inline;
   list-style: none;
+  max-width: calc(100% - 200px);
+  background: red;
 }
 
 nav ul li {
