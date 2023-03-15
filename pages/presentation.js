@@ -7,7 +7,7 @@ export default function Home() {
     <>
       <Head>
         <title>Sports For All</title>
-        <meta name="description" content="Esportes para pessoas com deficiência intelectual" />
+        <meta name="description" content="Características das pessoas com deficiência intelectual" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main>
