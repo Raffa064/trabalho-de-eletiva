@@ -17,7 +17,7 @@ export default function App({ Component, pageProps }) {
         <ul>
           <li><TabLink href="/">Deficiência intelectual</TabLink></li>
           <li><TabLink href="/presentation">Características</TabLink></li>
-          <li><TabLink href="/teste2354454">Tipos de deficiência intelectual</TabLink></li>
+          <li><TabLink href="/types">Tipos de deficiência intelectual</TabLink></li>
           <li><TabLink href="/sports">Esportes para deficientes intelectuais</TabLink></li>
           <li><TabLink href="/tips">Dicas de convivência</TabLink></li>
         </ul>
