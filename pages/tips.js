@@ -12,6 +12,9 @@ export default function Home() {
             </Head>
             <main>
                 <h2>Dicas de como lidar com pessoas com deficiência intelectual</h2>
+                <AdjustableImages>
+                    <img src="/tips.jpg"></img>
+                </AdjustableImages>
                 <p>Você deve <strong>agir naturalmente</strong> ao dirigir-se a uma pessoa com deficiência intelectual.</p>
                 <p>Trate-a com <strong>respeito</strong> e <strong>consideração</strong>. Se for uma criança, trate-a como uma criança. Se for um adolescente trate-a como adolescente, e se for uma pessoa adulta, trate-a como tal.</p>
                 <AdjustableImages>
